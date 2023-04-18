@@ -1,0 +1,26 @@
+
+
+#table_body img, #table_body2 img {
+    height: 128px;
+    width: 128px;
+}
+
+.navbar {
+    color: black !important;
+}
+
+#fondo{
+    background: url("../img/FondoDigi.png") ;
+}
+
+.img-fluid{
+    width: 200px;
+    bottom: 8px;
+    
+}
+
+#centerbuttons{
+    justify-content: center;
+    margin-right: 150px;
+}
+
